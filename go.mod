@@ -1,4 +1,4 @@
-module gtimer
+module github.com/m3m03y/gtimer
 
 go 1.19
 
